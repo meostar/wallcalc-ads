@@ -3,20 +3,23 @@
     {
       "id": 1,
       "title": "Wallpaper Services",
-      "image": "https://raw.githubusercontent.com/meostar/wallcalc-ads/main/wallpaper.png",
-      "link": "https://wa.me/923324600054"
+      "image": "https://raw.githubusercontent.com/meostar/wallcalc-ads/main/1.webp",
+      "link": "https://wa.me/923324600054",
+      "active": true
     },
     {
       "id": 2,
       "title": "Mobile App Development",
-      "image": "https://raw.githubusercontent.com/meostar/wallcalc-ads/main/app.png",
-      "link": "https://wa.me/923324600054"
+      "image": "https://raw.githubusercontent.com/meostar/wallcalc-ads/main/2.webp",
+      "link": "https://wa.me/923324600054",
+      "active": true
     },
     {
       "id": 3,
       "title": "Web Design",
-      "image": "https://raw.githubusercontent.com/meostar/wallcalc-ads/main/web.png",
-      "link": "https://meostargfx.pk"
+      "image": "https://raw.githubusercontent.com/meostar/wallcalc-ads/main/3.webp",
+      "link": "https://meostargfx.pk",
+      "active": true
     }
   ]
 }
